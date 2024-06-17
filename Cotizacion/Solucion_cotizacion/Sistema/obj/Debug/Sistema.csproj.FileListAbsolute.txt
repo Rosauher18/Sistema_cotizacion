@@ -1,0 +1,7 @@
+C:\xampp\htdocs\C#\Cotizacion\Solucion_cotizacion\Sistema\bin\Debug\Sistema.exe.config
+C:\xampp\htdocs\C#\Cotizacion\Solucion_cotizacion\Sistema\bin\Debug\Sistema.exe
+C:\xampp\htdocs\C#\Cotizacion\Solucion_cotizacion\Sistema\bin\Debug\Sistema.pdb
+C:\xampp\htdocs\C#\Cotizacion\Solucion_cotizacion\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\Cotizacion\Solucion_cotizacion\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\Cotizacion\Solucion_cotizacion\Sistema\obj\Debug\Sistema.exe
+C:\xampp\htdocs\C#\Cotizacion\Solucion_cotizacion\Sistema\obj\Debug\Sistema.pdb
